@@ -3,15 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemalptugoksuz&label=Profile%20views&color=000000&style=flat" alt="erdemalptugoksuz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdemalptugoksuz" alt="erdemalptugoksuz" /></a> </p>
+- 🔭 I’m currently working on **myselfy.**
 
-- 🔭 I’m currently working on [eşitCV](https://github.com/CMNSoftware)
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on **front end partner.**
-
-- 👨‍💻 All of my projects are available at [erdemalptug.com](erdemalptug.com)
+- 🌱 I’m currently learning **JavaScript, React.js and React Native.**
 
 - 📫 How to reach me **iletisim@erdemalptug.com**
 
