@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erdem Alptuğ</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
-<img src="https://wallpapercave.com/w/wp6174531">
+<img src="https://github.com/erdemalptugoksuz/erdemalptugoksuz/blob/main/bg.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemalptugoksuz&label=Profile%20views&color=000000&style=flat" alt="erdemalptugoksuz" /> </p>
 
