@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemalptugoksuz&label=Profile%20views&color=000000&style=flat" alt="erdemalptugoksuz" /> </p>
 
-- 🔭 I’m currently working on **myselfy.**
+- 🌱 I’m currently learning **JavaScript**
 
-- 🌱 I’m currently learning **JavaScript, React.js and React Native.**
-
-- 📫 How to reach me **iletisim@erdemalptug.com**
+- 📫 How to reach me **erdemalpoksuz@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/erdemalptugoksuz/](https://www.linkedin.com/in/erdemalptugoksuz/)
 
