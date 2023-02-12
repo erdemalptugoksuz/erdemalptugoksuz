@@ -66,14 +66,14 @@ Welcome! I am Erdem Alptuğ, a passionate software developer and technology enth
 ## Github Stats  
 <div align="center">  
 <table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=erdemalptugoksuz&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdemalptugoksuz&hide_border=true&layout=compact" align="center" style="width: 100%" />
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdemalptugoksuz&show_icons=true&theme=dark&locale=en" alt="erdemalptugoksuz" /></p>
+</td><td valign="center" width="50%">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemalptugoksuz&show_icons=true&theme=dark&locale=en&layout=compact" alt="erdemalptugoksuz" /></p>
+</td></tr></table>
+  <table><tr><td valign="top" width="50%">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemalptugoksuz&theme=dark" alt="erdemalptugoksuz" /></p>
 </td></tr></table>  
+
 </div>  
   
 <br/>  
