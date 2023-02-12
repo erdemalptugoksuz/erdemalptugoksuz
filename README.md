@@ -30,7 +30,6 @@ Welcome! I am Erdem Alptuğ, a passionate software developer and technology enth
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on Mobile App Design  
   
@@ -44,11 +43,9 @@ Welcome! I am Erdem Alptuğ, a passionate software developer and technology enth
 - ⚡ Fun fact: knock knock  
 
 
-</td><td valign="top" width="50%">
 
 
-
-</td></tr></table>  
+ 
 
 <br/>  
 
@@ -67,16 +64,18 @@ Welcome! I am Erdem Alptuğ, a passionate software developer and technology enth
 
 
 ## Github Stats  
+<div align="center">  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=erdemalptugoksuz&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=erdemalptugoksuz&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdemalptugoksuz&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdemalptugoksuz&hide_border=true&layout=compact" align="center" style="width: 100%" />
 
 </td></tr></table>  
-
+</div>  
+  
 <br/>  
 
   
