@@ -34,7 +34,7 @@ Welcome! I am Erdem Alptuğ, a passionate software developer and technology enth
 - 🔭 I’m currently working on **Mobile App Design**  
   
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
   
 
 - ❓ You can ask anything you want about me  
