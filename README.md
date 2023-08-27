@@ -34,5 +34,4 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=erdemalptugoksuz&icon=6&color=1)](https://visitcount.itsvg.in)
-
+![Profile views counter](https://komarev.com/ghpvc/?username=erdemalptugoksuz&&style=flat-square)  
