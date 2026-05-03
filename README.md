@@ -56,13 +56,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erdemalptugoksuz&theme=github_dark" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erdemalptugoksuz&hide_border=true&background=0d1117&stroke=14b8a6&ring=3382ed&fire=3382ed&currStreakNum=14b8a6&currStreakLabel=3382ed&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erdemalptugoksuz&theme=github_dark" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erdemalptugoksuz&theme=github_dark&utcOffset=3" height="165"/>
 </p>
 
 <p align="center">
